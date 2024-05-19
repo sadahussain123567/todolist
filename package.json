@@ -1,0 +1,20 @@
+{
+  "name": "hassan-hellow-todolist-appliis-212",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "text.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
